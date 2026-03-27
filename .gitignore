@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Ambiente
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Banco de dados
+*.db
+
+# Arquivos grandes
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
