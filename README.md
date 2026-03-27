@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/SQL-Advanced-blue.svg)](https://www.postgresql.org/)
-[![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange.svg)](https://scikit-learn.org/)
 [![Analytics](https://img.shields.io/badge/Business-Intelligence-green.svg)](https://pandas.pydata.org/)
 
 Este projeto simula um ecossistema de dados de **Risco de Crédito**, projetado para atender aos requisitos técnicos de grandes instituições financeiras. Ele demonstra competência em **Engenharia de Dados (SQL/ETL)**, **Análise Quantitativa (KPIs de Risco)** e **Machine Learning (Predictive Default)**.
